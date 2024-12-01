@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k2BvKfVrTik=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Presentation\\slack-clone.server\\slack-clone.server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh Harnet Ravago\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Josh Harnet Ravago\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Josh Harnet Ravago\\.nuget\\packages\\scalar.aspnetcore\\1.2.45\\scalar.aspnetcore.1.2.45.nupkg.sha512"
+  ],
+  "logs": []
+}

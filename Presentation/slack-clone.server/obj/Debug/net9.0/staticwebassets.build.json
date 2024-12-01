@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ec3q+m4bXakw3sKV45p7omPrU+jsVtN42g34H4Mri5U=",
+  "Source": "slack-clone.server",
+  "BasePath": "_content/slack-clone.server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

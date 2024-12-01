@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonName Condition="$(PackageJsonName) == ''">slack-clone.client</PackageJsonName>
+    <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">0.1.0</PackageJsonVersion>
+    <PackageJsonPrivate Condition="$(PackageJsonPrivate) == ''">true</PackageJsonPrivate>
+    <PackageJsonScriptsDev Condition="$(PackageJsonScriptsDev) == ''">next dev</PackageJsonScriptsDev>
+    <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">next build</PackageJsonScriptsBuild>
+    <PackageJsonScriptsStart Condition="$(PackageJsonScriptsStart) == ''">next start</PackageJsonScriptsStart>
+    <PackageJsonScriptsLint Condition="$(PackageJsonScriptsLint) == ''">next lint</PackageJsonScriptsLint>
+    <PackageJsonDependenciesClassVarianceAuthority Condition="$(PackageJsonDependenciesClassVarianceAuthority) == ''">^0.7.1</PackageJsonDependenciesClassVarianceAuthority>
+    <PackageJsonDependenciesClsx Condition="$(PackageJsonDependenciesClsx) == ''">^2.1.1</PackageJsonDependenciesClsx>
+    <PackageJsonDependenciesLucideReact Condition="$(PackageJsonDependenciesLucideReact) == ''">^0.462.0</PackageJsonDependenciesLucideReact>
+    <PackageJsonDependenciesNext Condition="$(PackageJsonDependenciesNext) == ''">15.0.3</PackageJsonDependenciesNext>
+    <PackageJsonDependenciesReact Condition="$(PackageJsonDependenciesReact) == ''">19.0.0-rc-66855b96-20241106</PackageJsonDependenciesReact>
+    <PackageJsonDependenciesReactDom Condition="$(PackageJsonDependenciesReactDom) == ''">19.0.0-rc-66855b96-20241106</PackageJsonDependenciesReactDom>
+    <PackageJsonDependenciesTailwindMerge Condition="$(PackageJsonDependenciesTailwindMerge) == ''">^2.5.5</PackageJsonDependenciesTailwindMerge>
+    <PackageJsonDependenciesTailwindcssAnimate Condition="$(PackageJsonDependenciesTailwindcssAnimate) == ''">^1.0.7</PackageJsonDependenciesTailwindcssAnimate>
+    <PackageJsonDevdependenciesTypesNode Condition="$(PackageJsonDevdependenciesTypesNode) == ''">^22</PackageJsonDevdependenciesTypesNode>
+    <PackageJsonDevdependenciesTypesReact Condition="$(PackageJsonDevdependenciesTypesReact) == ''">^18</PackageJsonDevdependenciesTypesReact>
+    <PackageJsonDevdependenciesTypesReactDom Condition="$(PackageJsonDevdependenciesTypesReactDom) == ''">^18</PackageJsonDevdependenciesTypesReactDom>
+    <PackageJsonDevdependenciesEslint Condition="$(PackageJsonDevdependenciesEslint) == ''">^9</PackageJsonDevdependenciesEslint>
+    <PackageJsonDevdependenciesEslintConfigNext Condition="$(PackageJsonDevdependenciesEslintConfigNext) == ''">15.0.3</PackageJsonDevdependenciesEslintConfigNext>
+    <PackageJsonDevdependenciesPostcss Condition="$(PackageJsonDevdependenciesPostcss) == ''">^8</PackageJsonDevdependenciesPostcss>
+    <PackageJsonDevdependenciesTailwindcss Condition="$(PackageJsonDevdependenciesTailwindcss) == ''">^3.4.15</PackageJsonDevdependenciesTailwindcss>
+    <PackageJsonDevdependenciesTypescript Condition="$(PackageJsonDevdependenciesTypescript) == ''">^5</PackageJsonDevdependenciesTypescript>
+  </PropertyGroup>
+</Project>
