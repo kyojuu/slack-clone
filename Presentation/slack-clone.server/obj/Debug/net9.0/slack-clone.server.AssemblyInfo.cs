@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("slack-clone.server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31b22064c4d0ab9aff6f2ac892b4980f8a000a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("slack-clone.server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("slack-clone.server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

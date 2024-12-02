@@ -33,3 +33,10 @@ C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-cl
 C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\obj\Debug\net9.0\ref\slack-clone.server.dll
 C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\bin\Debug\net9.0\libman.json
 C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\bin\Debug\net9.0\Scalar.AspNetCore.dll
+C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\bin\Debug\net9.0\Application.dll
+C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\bin\Debug\net9.0\Domain.dll
+C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\bin\Debug\net9.0\Application.pdb
+C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\bin\Debug\net9.0\Domain.pdb
+C:\Users\Josh Harnet Ravago\Dev\Project Stuffs\slack-clone\Presentation\slack-clone.server\obj\Debug\net9.0\slack-clone.server.sourcelink.json

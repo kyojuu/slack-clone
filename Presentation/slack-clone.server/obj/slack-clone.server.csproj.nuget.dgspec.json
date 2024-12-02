@@ -210,22 +210,6 @@
         }
       }
     },
-    "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Presentation\\slack-clone.client\\slack-clone.client.esproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Presentation\\slack-clone.client\\slack-clone.client.esproj",
-        "projectName": "slack-clone.client",
-        "projectPath": "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Presentation\\slack-clone.client\\slack-clone.client.esproj",
-        "UsingMicrosoftNETSdk": false,
-        "frameworks": {
-          "net6.0": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net6.0": {}
-      }
-    },
     "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Presentation\\slack-clone.server\\slack-clone.server.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -257,9 +241,6 @@
             "projectReferences": {
               "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Infrastructure\\Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Infrastructure\\Infrastructure.csproj"
-              },
-              "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Presentation\\slack-clone.client\\slack-clone.client.esproj": {
-                "projectPath": "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Presentation\\slack-clone.client\\slack-clone.client.esproj"
               }
             }
           }

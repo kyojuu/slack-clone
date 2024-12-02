@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "Ec3q+m4bXakw3sKV45p7omPrU+jsVtN42g34H4Mri5U=",
+  "Hash": "OHCnGg27ka0dz5RhMJT1sVQ242xfVdjmRtjes74IkjM=",
   "Source": "slack-clone.server",
   "BasePath": "_content/slack-clone.server",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Josh Harnet Ravago\\Dev\\Project Stuffs\\slack-clone\\Presentation\\slack-clone.client\\slack-clone.client.esproj",
+      "Version": 2,
+      "Source": "slack-clone.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": [],
   "Endpoints": []

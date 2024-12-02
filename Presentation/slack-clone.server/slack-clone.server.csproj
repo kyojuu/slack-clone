@@ -13,7 +13,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\slack-clone.client\slack-clone.client.esproj" />
+    <ProjectReference Include="..\..\Infrastructure\Infrastructure.csproj" />
+    <ProjectReference Include="..\slack-clone.client\slack-clone.client.esproj">
+	    <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+	</ProjectReference>
+  
   </ItemGroup>
 
 </Project>
